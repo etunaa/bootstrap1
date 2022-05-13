@@ -111,6 +111,25 @@ margin-left: 200px;
 .head{
     padding: 50px;
 }
-.ilu{
+.ilu1{
     margin-left: 200px;
 }
+.ilu2{
+    margin-left: 300px;
+}
+.ilu{
+   margin-top: 100px;
+   margin-bottom: 0px;
+   margin-left: 0px;
+   margin-right: 0px;
+}
+
+.price{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.price1{
+    list-style: none;
+}
+
